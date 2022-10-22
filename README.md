@@ -1,1 +1,1 @@
-This is the K nearest Neighbor part of the final EDA Project
+These are the various ML models used for taxi trip duration prediction used in the project
